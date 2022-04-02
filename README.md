@@ -9,3 +9,5 @@ This hook is a companion to the Log Rock (article)[]
 - Two-way infinite loading
 - Instant perceived performance
 - Manual, infinite-infinite and partial infinite loading options
+
+https://blog.logrocket.com/react-hooks-infinite-scroll-advanced-tutorial/
